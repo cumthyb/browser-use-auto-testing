@@ -1,0 +1,12 @@
+__pycache__/
+/allure-results/
+/allure-report/
+.pytest_cache/
+.env
+.venv/**/*
+.vscode/
+/logs/
+/steps/
+/storage_state.json
+/storage_state.json.bak
+/storage_state.json.init
