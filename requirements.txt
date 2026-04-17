@@ -1,6 +1,6 @@
 allure-pytest==2.14.3
 browser-use==0.2.7
-langchain-openai==0.3.21
+langchain-openai==1.1.14
 playwright==1.52.0
 pydantic==2.11.5
 pydantic_core==2.33.2
